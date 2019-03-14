@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <cmath>
+
 
 //*************Set Parameters**************
 const double LENGTH = 1;     // The length of box
